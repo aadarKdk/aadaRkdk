@@ -18,16 +18,16 @@ Registered Electronics, Communication, and Information Engineer focused on DevOp
 * **IaC:** Terraform
 * **Tools:** VS Code
 
-## Visit My Other GitHub Profile
-* GitHub: [erkdk](https://github.com/erkdk)
-
 ##  DevOps Learning Journey
 
 I actively document my hands-on DevOps learning and experiments:
 https://github.com/erkdk/devops-journey
 
+### Visit My Other GitHub Profile
+* GitHub: [erkdk](https://github.com/erkdk)
+
 ---
-## Connect with Me
+### Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/aadarkdk/
 * Email: [aadar.kdk@gmail.com](mailto:aadar.kdk@gmail.com)
