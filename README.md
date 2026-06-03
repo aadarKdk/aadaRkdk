@@ -19,4 +19,5 @@ I am learning and documenting hands-on practice, projects, and demos as I build 
 - **GitHub (erkdk):** [erkdk](https://github.com/erkdk)
 - **GitHub (aadarKdk):** [aadarKdk](https://github.com/aadarKdk)
 - **LinkedIn:** [Aadarsha Khadka](https://www.linkedin.com/in/aadarkdk/)
+- **Facebook:** [Aadarsha Khadka](https://www.facebook.com/memr.khadka.3)
 - **YouTube:** [@aadarkdk](https://www.youtube.com/@aadarkdk)
