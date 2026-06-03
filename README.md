@@ -1,13 +1,22 @@
 # Hi, I'm Aadarsha Khadka
 
-Linux • Automation • Cloud • Infrastructure
+**Linux • Automation • Cloud • Infrastructure**
 
-I document hands-on labs and system engineering practice in my GitHub repository:
-[systems-engineering-journey](https://github.com/erkdk/systems-engineering-journey)
+I am learning and documenting hands-on practice, projects, and demos as I build skills in systems engineering and cloud infrastructure.
+**Learning Journey:** [systems-journey](https://github.com/erkdk/systems-journey)
 
-Currently focused on Linux systems, automation, CI/CD, cloud, infrastructure, security, and monitoring.
+### Current Focus
 
-## Connect with Me
+- Linux
+- Automation
+- Cloud Infrastructure
+- Security
+- Monitoring
 
-- GitHub: [erkdk](https://github.com/erkdk)
-- LinkedIn: [aadarkdk](https://www.linkedin.com/in/aadarkdk/)
+### Connect with Me
+
+- **Website:** [aadarshakhadka.com.np](https://aadarshakhadka.com.np)
+- **GitHub (erkdk):** [erkdk](https://github.com/erkdk)
+- **GitHub (aadarKdk):** [aadarKdk](https://github.com/aadarKdk)
+- **LinkedIn:** [Aadarsha Khadka](https://www.linkedin.com/in/aadarkdk/)
+- **YouTube:** [@aadarkdk](https://www.youtube.com/@aadarkdk)
