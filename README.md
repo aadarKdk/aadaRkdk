@@ -1,19 +1,12 @@
-# Hi, I'm Aadarsha Khadka
+# Aadarsha Khadka
 
 **Linux • Automation • Cloud • Infrastructure**
 
-I am learning and documenting hands-on practice, projects, and demos as I build skills in systems engineering and cloud infrastructure.
-**Learning Journey:** [systems-journey](https://github.com/erkdk/systems-journey)
+Hands-on labs, projects, and documentation.
 
-### Current Focus
+**Projects & Labs:** [systems-journey](https://github.com/erkdk/systems-journey)
 
-- Linux
-- Automation
-- Cloud Infrastructure
-- Security
-- Monitoring
-
-### Connect with Me
+## Profiles
 
 - **Website:** [aadarshakhadka.com.np](https://aadarshakhadka.com.np)
 - **GitHub (erkdk):** [erkdk](https://github.com/erkdk)
