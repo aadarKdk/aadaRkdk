@@ -1,6 +1,6 @@
 # Aadarsha Khadka
 
-**• understanding systems**
+**• Exploring Linux Systems**
 
 Hands-on labs, projects, and documentation.
 
