@@ -1,6 +1,6 @@
 # Aadarsha Khadka
 
-**Linux • Automation • Cloud • Infrastructure**
+understanding systems
 
 Hands-on labs, projects, and documentation.
 
