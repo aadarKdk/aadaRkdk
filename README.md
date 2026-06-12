@@ -1,6 +1,6 @@
 # Aadarsha Khadka
 
-understanding systems
+**• understanding systems**
 
 Hands-on labs, projects, and documentation.
 
