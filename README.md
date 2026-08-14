@@ -2,8 +2,6 @@
 
 *Simple systems. Secure foundations. Thoughtful engineering.*
 
-Personal knowledge base featuring technical documentation, hands-on practice, projects, and labs.
-
 **Featured Repository:** [systems-journey](https://github.com/erkdk/systems-journey)
 
 ## Links
